@@ -38,7 +38,5 @@ def request_page():
   
   return jsonify(data=data_set), 200
 
-
-
 if __name__ == '__main__':
   app.run()
