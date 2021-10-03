@@ -41,4 +41,4 @@ def request_page():
 
 
 if __name__ == '__main__':
-  app.run(port=7778)
+  app.run()
